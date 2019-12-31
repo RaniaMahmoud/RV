@@ -1,0 +1,9 @@
+D:\Level 3\S1\C#\Project\RV\Stack\bin\Debug\Stack.exe.config
+D:\Level 3\S1\C#\Project\RV\Stack\bin\Debug\Stack.exe
+D:\Level 3\S1\C#\Project\RV\Stack\bin\Debug\Stack.pdb
+D:\Level 3\S1\C#\Project\RV\Stack\obj\Debug\Stack.csprojResolveAssemblyReference.cache
+D:\Level 3\S1\C#\Project\RV\Stack\obj\Debug\Stack.Form1.resources
+D:\Level 3\S1\C#\Project\RV\Stack\obj\Debug\Stack.Properties.Resources.resources
+D:\Level 3\S1\C#\Project\RV\Stack\obj\Debug\Stack.csproj.GenerateResource.Cache
+D:\Level 3\S1\C#\Project\RV\Stack\obj\Debug\Stack.exe
+D:\Level 3\S1\C#\Project\RV\Stack\obj\Debug\Stack.pdb

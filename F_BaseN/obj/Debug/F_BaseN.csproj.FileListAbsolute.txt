@@ -1,0 +1,9 @@
+D:\Level 3\S1\C#\Project\RV\F_BaseN\bin\Debug\F_BaseN.exe.config
+D:\Level 3\S1\C#\Project\RV\F_BaseN\bin\Debug\F_BaseN.exe
+D:\Level 3\S1\C#\Project\RV\F_BaseN\bin\Debug\F_BaseN.pdb
+D:\Level 3\S1\C#\Project\RV\F_BaseN\obj\Debug\F_BaseN.csprojResolveAssemblyReference.cache
+D:\Level 3\S1\C#\Project\RV\F_BaseN\obj\Debug\F_BaseN.Form1.resources
+D:\Level 3\S1\C#\Project\RV\F_BaseN\obj\Debug\F_BaseN.Properties.Resources.resources
+D:\Level 3\S1\C#\Project\RV\F_BaseN\obj\Debug\F_BaseN.csproj.GenerateResource.Cache
+D:\Level 3\S1\C#\Project\RV\F_BaseN\obj\Debug\F_BaseN.exe
+D:\Level 3\S1\C#\Project\RV\F_BaseN\obj\Debug\F_BaseN.pdb

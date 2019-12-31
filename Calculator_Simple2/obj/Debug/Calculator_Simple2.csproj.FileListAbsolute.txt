@@ -1,0 +1,9 @@
+D:\Level 3\S1\C#\Project\RV\Calculator_Simple2\bin\Debug\Calculator_Simple2.exe.config
+D:\Level 3\S1\C#\Project\RV\Calculator_Simple2\obj\Debug\Calculator_Simple2.csprojResolveAssemblyReference.cache
+D:\Level 3\S1\C#\Project\RV\Calculator_Simple2\obj\Debug\Calculator_Simple2.Form1.resources
+D:\Level 3\S1\C#\Project\RV\Calculator_Simple2\obj\Debug\Calculator_Simple2.Properties.Resources.resources
+D:\Level 3\S1\C#\Project\RV\Calculator_Simple2\obj\Debug\Calculator_Simple2.csproj.GenerateResource.Cache
+D:\Level 3\S1\C#\Project\RV\Calculator_Simple2\bin\Debug\Calculator_Simple2.exe
+D:\Level 3\S1\C#\Project\RV\Calculator_Simple2\bin\Debug\Calculator_Simple2.pdb
+D:\Level 3\S1\C#\Project\RV\Calculator_Simple2\obj\Debug\Calculator_Simple2.exe
+D:\Level 3\S1\C#\Project\RV\Calculator_Simple2\obj\Debug\Calculator_Simple2.pdb
